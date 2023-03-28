@@ -1,2 +1,55 @@
 # JNL-221_Mahdi
 Amaan's JNL 221 assignments page
+<!-- This is an html page for Prof. Husain's JNL221.
+This page will be used at times for explaining homework instructions
+or displaying student work. -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Foundations Of Data And Digital Journalism</title>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+	<link type="text/css" rel="stylesheet" href="../index.css" />
+</head>
+
+<!-- DO NOT EDIT ANYTHING IN THE HEAD TAG ^ -->
+
+<body>
+	
+	<!-- Intro row -->
+	<div id="intro" class="col-sm-12">
+		<h1> <!-- /// EDITABLE ONE /// --> Amaan Mahdi </h1>
+		<h4> <!-- /// EDITABLE TWO /// --> JNL 221, Syracuse University</h4>
+	</div>
+
+	<div class="container content">
+		<h2>Basketball statistics over the years
+		<p class="subhed">Statistics are shown in two graphs</p>
+		<p class="byline">Amaan Mahdi
+		
+		<p>The National Basketball Association has developed and matured over the years. Whether it's the fact that defense efficency has declined, or the points scored per game increased, the NBA is nonetheless transitioning into an offensive game.  </p>
+		<p>Analyses of the change in basketball statistics are shown. The first one is a line graph created by datawrapper. It shows the increase in points per game after the creation of the three point line. The second one is a creative dataviz diagram that I created. It shows the increase in points, field goals, and steals per game over the years through the drawing of a basketball. if I were to edit either of them again, I would probably redraw the creative dataviz to more accurately represent my conclusions. For example, the lines on the basketball go up and down. In reality, they should all go up because of the increase in the basketbal statistics.  
+
+
+
+		
+
+		<iframe title="Change in points per game after the creation of the three-point line" aria-label="Arrow Plot" id="datawrapper-chart-lckv5" src="https://datawrapper.dwcdn.net/lckv5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="629" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}(); </script>
+</script>
+
+		<img src="IMG_bball.jpg" alt="" height="400px" width="500px
+	</div>
+
+
+  	<!-- About Row -->
+	<div class="row">
+		<div id="end" class="col-sm-12">
+			<h4> <!-- /// EDITABLE THREE /// --> this page was made in github pages with montserrat and open sans to hold assignments for a course at Newhouse.</h4>
+		</div>
+	</div>
+
+</body>
+</html>
